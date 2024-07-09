@@ -1,0 +1,31 @@
+.experience-background {
+    background-color: #a4b5b7;
+}
+
+.experience-spacing {
+    padding: 0 3%;
+}
+
+
+.skillsList {
+    display: inline-block;
+}
+
+.skillsList > li {
+    text-align: left;
+}
+
+
+@media screen and (min-width: 700px) {
+
+    .experience-spacing {
+        padding: 0 10%;
+    }
+    
+}
+
+@media screen and (min-width: 1400px) {
+    .experience-spacing {
+        padding: 0 15%;
+    }
+} 
