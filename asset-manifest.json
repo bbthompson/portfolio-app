@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-app/static/css/main.e2f86b3e.css",
+    "main.js": "/portfolio-app/static/js/main.28d634ed.js",
+    "static/media/gardencenterWebsite.jpg": "/portfolio-app/static/media/gardencenterWebsite.bc689fd3c3c93384e01f.jpg",
+    "static/media/watercolorBrian.png": "/portfolio-app/static/media/watercolorBrian.076ee027ac4e60f15e09.png",
+    "static/media/photoBrian.jpg": "/portfolio-app/static/media/photoBrian.0466aba8ac00b1017294.jpg",
+    "static/media/glasses.jpg": "/portfolio-app/static/media/glasses.9330c488aee71ea32b30.jpg",
+    "static/media/beachWebsite.jpg": "/portfolio-app/static/media/beachWebsite.e4564ad6157718450c6c.jpg",
+    "static/media/petsittingWebsite.jpg": "/portfolio-app/static/media/petsittingWebsite.851bc789c136e2a757d5.jpg",
+    "static/media/LogoBBTLong.png": "/portfolio-app/static/media/LogoBBTLong.11f9e0587c5d6475c073.png",
+    "static/media/JavaScript.png": "/portfolio-app/static/media/JavaScript.34a7001a98d662d71afd.png",
+    "index.html": "/portfolio-app/index.html",
+    "main.e2f86b3e.css.map": "/portfolio-app/static/css/main.e2f86b3e.css.map",
+    "main.28d634ed.js.map": "/portfolio-app/static/js/main.28d634ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2f86b3e.css",
+    "static/js/main.28d634ed.js"
+  ]
+}
