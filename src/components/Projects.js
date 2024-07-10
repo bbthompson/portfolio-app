@@ -31,8 +31,8 @@ function Projects(props) {
     return ( 
 
         <Container fluid className="py-4 project-background">
-            <h2 id="Projects" class="text-center text-shadow py-3">Projects</h2>
-            <Row g-1>
+            <h2 id="Projects" className="text-center text-shadow py-3">Projects</h2>
+            <Row className="g-1 px-lg-4">
                 <CardGroup>
                     {websiteProjects}
                 </CardGroup>

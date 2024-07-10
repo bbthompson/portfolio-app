@@ -16,7 +16,7 @@ function AboutMe() {
     return (
         <section>
             <Container fluid className="about-background py-4">
-                <h2 id="About" class="text-center text-shadow py-3">About Me</h2>
+                <h2 id="About" className="text-center text-shadow py-3">About Me</h2>
                 <Row g-0 className='about-spacing'>
                     <Card className="mb-2">
                         <Row g-0 className="py-2 align-items-center justify-content-center">
